@@ -3,9 +3,9 @@
 ## 课程资料
 
 - [课程大纲](http://naotu.baidu.com/file/529af44e87eb1ed5566b54b2f23771c0)
-- [课程板书](#)
+- [课程板书](./ppt)
 - [通关任务](task.md)  
-- [示例代码](http://spa.wangding.in)
+- [示例代码](https://spa.wangding.in)
 
 ## 参考资料
 
@@ -58,17 +58,4 @@
 ### 第 6 课：自定义 UI 组件（中）
 
 - require.js：http://requirejs.org/docs/start.html
-
-### 第 7 课：
-
-
-### 第 8 课：MVC 和数据绑定
-
-### 数据存储
-
-### 多媒体
-
-
-### 自动化构建
-
 
