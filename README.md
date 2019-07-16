@@ -3,59 +3,21 @@
 ## 课程资料
 
 - [课程大纲](http://naotu.baidu.com/file/529af44e87eb1ed5566b54b2f23771c0)
-- [课程板书](./ppt)
-- [通关任务](task.md)  
-- [示例代码](https://spa.wangding.in)
+- [幻灯片](spa.pptx)
+- [通关任务](https://spa.wangding.in)
 
-## 参考资料
+## 课程视频
 
-### 第 1 课：课程简介
+- [课程视频](https://space.bilibili.com/420780095)
 
-- SPA：https://en.wikipedia.org/wiki/Single-page_application
-- RIA：https://en.wikipedia.org/wiki/Rich_Internet_application
-- Web APP：https://en.wikipedia.org/wiki/Web_application
-- 开发环境搭建：https://github.com/wangding/spa/issues/7
-- 前端工程——基础篇：https://github.com/fouber/blog/issues/10
-- 浅谈前端集成解决方案：https://github.com/fouber/blog/issues/1
-- JavaScript 浮点运算精度解决方案：https://segmentfault.com/a/1190000013431163
+## 示例代码
 
-### 第 2 课：H5 内置控件
+- [在线矩形计算器](https://wangding.github.io/rectangle/)，仓库地址：[wangding/rectangle](https://github.com/wangding/rectangle)。在线矩形计算器是 SPA 课程的第一个大作业，覆盖了课程的前半部分内容。用户输入矩形的长度和宽度，程序计算出矩形的面积和周长。应用程序的开发涉及到自动化构建的静态代码检查、单元测试和性能优化，以及数据合法性校验等技术。
 
-- UI 设计的四个基本原则：
-  - https://www.jianshu.com/p/5402eb28a8f7
-  - https://www.jianshu.com/p/f5dbf810b64d
-- 简洁明了的优秀 UI 设计：
-  - https://segmentfault.com/a/1190000000538895
-  - https://segmentfault.com/a/1190000000573522
-  - https://segmentfault.com/a/1190000000575468
-  - https://segmentfault.com/a/1190000000576698
-- input 标签：https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/Input
-- 按钮：https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/Input/button
-- 密码框：https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input/password
-- 文本框：https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input/text
-- 滑杆：https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/input/range
-- 进度条：https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/progress
+- [wangding/grunt-demo](https://github.com/wangding/grunt-demo) 仓库，演示 Grunt 各种自动化构建任务，包括：预编译、单元测试、静态代码检查和性能优化，等。
 
-### 第 3 课：数据合法性校验
+- [SPA 课程示例](https://fe.wangding.in/)，仓库地址：[wangding/spa-demo](https://github.com/wangding/spa-demo)。课程示例包含课上所有小的 Demo 示例代码，整个网站是个单页应用，使用了自动化构建技术。
 
-- H5 表单数据校验：https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Forms/Data_form_validation
+- [在线记事本](https://np.wangding.in/)，仓库地址：[wangding/jsnotepad](https://github.com/wangding/jsnotepad)。这个综合案例覆盖课程后半部分内容，实践 UI 组件化开发思想。包含五个对话框 UI 组件的封装，一个列表控件的封装以及三个主界面组件（菜单栏、编辑器和状态栏）的封装。并实现自动化构建。
 
-### 第 4 课：第三方组件库
-
-- 图表：http://echarts.baidu.com/tutorial.html
-- 百度地图 API：http://lbsyun.baidu.com/cms/jsapi/reference/jsapi_reference.html
-- 百度地图 Demo：http://lbsyun.baidu.com/jsdemo.htm
-- 语法高亮：https://highlightjs.org/
-- IDE：https://github.com/jakiestfu/Behave.js
-- 表格：https://docs.handsontable.com/pro/1.18.1/tutorial-introduction.html
-- 数学公式编辑：https://github.com/mathquill/mathquill
-
-### 第 5 课：自定义 UI 组件（上）
-
-- 如何构建表单小工具：https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Forms/How_to_build_custom_form_widgets
-- BEM 入门：https://segmentfault.com/a/1190000009953887
-
-### 第 6 课：自定义 UI 组件（中）
-
-- require.js：http://requirejs.org/docs/start.html
-
+- [匠人牛品管理后台](https://admin.wangding.in/)，仓库地址：[wangding/admin](https://github.com/wangding/admin)。这个综合案例覆盖课程后半部分内容，实践 UI 组件化开发思想。包含登录组件、页头、最侧导航、页脚、以及中间控制面板 UI 组件的封装。左侧导航使用前端路由机制调取相应的功能面板。使用了自动化构建技术。
