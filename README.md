@@ -8,7 +8,7 @@
 
 ## 课程视频
 
-- [课程视频](https://space.bilibili.com/420780095)
+- [课程视频](https://www.bilibili.com/video/av86707777)
 
 ## 示例代码
 
